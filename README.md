@@ -1,2 +1,1 @@
-# ResturantSentimentAnalysis
-Internship project
+Machine learning , data processing, EDA and model evaluation 
