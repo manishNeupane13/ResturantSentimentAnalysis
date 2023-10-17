@@ -1,0 +1,3 @@
+{"timestamp":668985,"category":"nimbus_events","name":"enrollment","extra":{"branch":"enabled","experiment_type":"rollout","experiment":"backgroundupdate-enable-unelevated-installations-rollout","enrollment_id":"692686c2-feb4-4a71-a17f-d18ac6018fd3"}}
+{"timestamp":668997,"category":"nimbus_events","name":"enrollment","extra":{"branch":"enable-csv-import","experiment":"csv-import-beta-rollout","experiment_type":"rollout","enrollment_id":"024e03bd-77cb-457c-964f-b4d8393843bf"}}
+{"timestamp":669048,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"rollout-single-branch","experiment":"opaque-response-blocking-orb-beta-117-rollout","enrollment_id":"21c8be24-d9a7-4261-acf7-c8384798b04f"}}
